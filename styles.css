@@ -27,3 +27,16 @@
   top: 0;
   right: 0;
 }
+
+
+.heartFade{
+  background-color: red;
+  background-size:contain;
+}
+
+.mode{
+  margin-top:20px;
+}
+.changeMode{
+  background-color: darkgrey;
+}
