@@ -1,0 +1,29 @@
+#top-nav .nav-link i {
+  font-size: 1.8em;
+}
+
+#post-container .post {
+  max-width: 600px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+}
+
+#post-container .like {
+  color: inherit;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+#suggestions small {
+  font-size: 60%;
+}
+
+.hide {
+  top: 0;
+  right: 0;
+}
